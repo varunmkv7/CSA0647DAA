@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Function to reverse a given number
 int reverseNumber(int num) {
     int reverse = 0;
     while (num != 0) {
